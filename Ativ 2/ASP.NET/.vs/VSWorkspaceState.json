@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ASP.NET",
+    "\\ASP.NET\\Controller",
+    "\\ASP.NET\\wwwroot",
+    "\\ASP.NET\\wwwroot\\lib",
+    "\\ASP.NET\\wwwroot\\lib\\jquery",
+    "\\ASP.NET\\wwwroot\\lib\\jquery-validation",
+    "\\ASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive",
+    "\\ASP.NET\\wwwroot\\lib\\jquery-validation\\dist",
+    "\\ASP.NET\\wwwroot\\lib\\jquery\\dist"
+  ],
+  "SelectedNode": "\\ASP.NET\\Controller\\AlunosController.cs",
+  "PreviewInSolutionExplorer": false
+}

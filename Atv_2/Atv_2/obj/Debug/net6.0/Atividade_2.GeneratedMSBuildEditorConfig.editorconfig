@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Atividade_2
+build_property.RootNamespace = Atividade_2
+build_property.ProjectDir = C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Alunos/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEV4Y2x1aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Alunos/Gravar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEdyYXZhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Alunos/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Alunos/Procurar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXFByb2N1cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Funcionarios/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEV4Y2x1aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Funcionarios/Gravar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEdyYXZhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Funcionarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Funcionarios/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Funcionarios/Procurar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXFByb2N1cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Livros/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXEV4Y2x1aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Livros/Gravar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXEdyYXZhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Livros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Livros/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Livros/Procurar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXFByb2N1cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj_Web_2023/ProjetosWeb_Barometro_BrunoW_FelipeK/Atv_2/Atv_2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kdrxc7jwrb

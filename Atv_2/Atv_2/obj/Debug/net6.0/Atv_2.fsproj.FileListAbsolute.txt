@@ -1,0 +1,5 @@
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atv_2.fsproj.AssemblyReference.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atv_2.AssemblyInfoInputs.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atv_2.AssemblyInfo.fs
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atv_2.fsproj.CoreCompileInputs.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atv_2.MvcApplicationPartsAssemblyInfo.cache

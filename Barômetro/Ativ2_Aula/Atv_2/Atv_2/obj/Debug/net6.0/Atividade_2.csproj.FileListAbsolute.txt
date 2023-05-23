@@ -1,0 +1,62 @@
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\appsettings.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\Atividade_2.staticwebassets.runtime.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\Atividade_2.exe
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\Atividade_2.deps.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\Atividade_2.runtimeconfig.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\Atividade_2.dll
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\bin\Debug\net6.0\Atividade_2.pdb
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.csproj.AssemblyReference.cache
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.AssemblyInfoInputs.cache
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.AssemblyInfo.cs
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.csproj.CoreCompileInputs.cache
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.RazorAssemblyInfo.cache
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.RazorAssemblyInfo.cs
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets\msbuild.Atividade_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets\msbuild.build.Atividade_2.props
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Atividade_2.props
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Atividade_2.props
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\scopedcss\bundle\Atividade_2.styles.css
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\scopedcss\projectbundle\Atividade_2.bundle.scp.css
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.dll
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\refint\Atividade_2.dll
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.pdb
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\Atividade_2.genruntimeconfig.cache
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\teste facul\atv_2\atv_2\obj\Debug\net6.0\ref\Atividade_2.dll
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\appsettings.Development.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\appsettings.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\Atividade_2.staticwebassets.runtime.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\Atividade_2.exe
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\Atividade_2.deps.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\Atividade_2.runtimeconfig.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\Atividade_2.dll
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\bin\Debug\net6.0\Atividade_2.pdb
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.csproj.AssemblyReference.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.AssemblyInfoInputs.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.AssemblyInfo.cs
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.csproj.CoreCompileInputs.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.RazorAssemblyInfo.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.RazorAssemblyInfo.cs
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets\msbuild.Atividade_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets\msbuild.build.Atividade_2.props
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Atividade_2.props
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Atividade_2.props
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\scopedcss\bundle\Atividade_2.styles.css
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\scopedcss\projectbundle\Atividade_2.bundle.scp.css
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.dll
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\refint\Atividade_2.dll
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.pdb
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\Atividade_2.genruntimeconfig.cache
+C:\Proj_Web_2023\ProjetosWeb_Barometro_BrunoW_FelipeK\Atv_2\Atv_2\obj\Debug\net6.0\ref\Atividade_2.dll

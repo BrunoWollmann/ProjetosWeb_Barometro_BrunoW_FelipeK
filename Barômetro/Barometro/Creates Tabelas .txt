@@ -1,0 +1,41 @@
+-- Table: public.temperatura
+
+-- DROP TABLE IF EXISTS public.temperatura;
+
+CREATE TABLE IF NOT EXISTS public.temperatura
+(
+    id integer NOT NULL,
+    local_temperatura character varying(40) COLLATE pg_catalog."default" NOT NULL,
+    data_dado date NOT NULL,
+    temp_at double precision,
+    temp_min double precision,
+    tem_max double precision
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.temperatura
+    OWNER to postgres;
+	
+	
+	
+	
+	
+-- Table: public.humidade
+
+-- DROP TABLE IF EXISTS public.humidade;
+
+CREATE TABLE IF NOT EXISTS public.humidade
+(
+    id integer NOT NULL,
+    local_humidade character varying(40) COLLATE pg_catalog."default" NOT NULL,
+    data_dado date NOT NULL,
+    hum_at double precision,
+    hum_min double precision,
+    hum_max double precision
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.humidade
+    OWNER to postgres;

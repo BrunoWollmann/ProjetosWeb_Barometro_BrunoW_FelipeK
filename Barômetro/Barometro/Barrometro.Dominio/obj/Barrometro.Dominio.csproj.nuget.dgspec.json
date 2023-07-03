@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj": {}
+    "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj": {
+    "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj",
         "projectName": "Barrometro.Dominio",
-        "projectPath": "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj",
+        "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro.Dominio\\Barrometro.Dominio.csproj",
         "packagesPath": "C:\\Users\\bruno.camargo\\.nuget\\packages\\",
-        "outputPath": "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\Barrometro.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno.camargo\\AppData\\Roaming\\NuGet\\NuGet.Config",

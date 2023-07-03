@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\ConsultaDados\\Barrometro.Persistencia.csproj": {}
+    "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\BarometerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\ConsultaDados\\Barrometro.Persistencia.csproj": {
+    "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\BarometerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\ConsultaDados\\Barrometro.Persistencia.csproj",
-        "projectName": "Barrometro.Persistencia",
-        "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\ConsultaDados\\Barrometro.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\BarometerApi.csproj",
+        "projectName": "BarometerApi",
+        "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\BarometerApi.csproj",
         "packagesPath": "C:\\Users\\bruno.camargo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\ConsultaDados\\obj\\",
+        "outputPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno.camargo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,6 +58,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -34,3 +34,6 @@ C:\Users\felip\Desktop\faculdade\Barrometro\Barrometro\obj\Debug\net6.0\Barromet
 C:\Pessoal_BrunoW\Projeto_BrunoW_FelipeW\Barometro\Barrometro\obj\Debug\net6.0\Barrometro.Web.dll
 C:\Pessoal_BrunoW\Projeto_BrunoW_FelipeW\Barometro\Barrometro\obj\Debug\net6.0\refint\Barrometro.Web.dll
 C:\Pessoal_BrunoW\Projeto_BrunoW_FelipeW\Barometro\Barrometro\obj\Debug\net6.0\Barrometro.Web.pdb
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\api_\Barômetro\Barometro\Barrometro\obj\Debug\net6.0\Barrometro.Web.dll
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\api_\Barômetro\Barometro\Barrometro\obj\Debug\net6.0\refint\Barrometro.Web.dll
+C:\Users\bruno.camargo\OneDrive - Processor\Documentos\api_\Barômetro\Barometro\Barrometro\obj\Debug\net6.0\Barrometro.Web.pdb

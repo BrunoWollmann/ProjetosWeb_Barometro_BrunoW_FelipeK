@@ -6,7 +6,7 @@
   "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Npgsql >= 7.0.4"
+      "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro\\Barrometro.Web.csproj",
-      "projectName": "Barrometro.Web",
-      "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro\\Barrometro.Web.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\BarometerApi.csproj",
+      "projectName": "BarometerApi",
+      "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\BarometerApi.csproj",
       "packagesPath": "C:\\Users\\bruno.camargo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\Barrometro\\obj\\",
+      "outputPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\BarometerApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno.camargo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,9 +49,9 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Npgsql": {
+          "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "[7.0.4, )"
+            "version": "[6.2.3, )"
           }
         },
         "imports": [
@@ -81,8 +81,8 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Unable to find package Npgsql. No packages exist with this id in source(s): Connect, Microsoft Visual Studio Offline Packages, Official",
-      "libraryId": "Npgsql",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Connect, Microsoft Visual Studio Offline Packages, Official",
+      "libraryId": "Swashbuckle.AspNetCore",
       "targetGraphs": [
         "net6.0"
       ]

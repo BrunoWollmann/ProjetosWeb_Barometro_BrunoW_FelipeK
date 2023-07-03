@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tnzAebWYHmLfcyTMf/vzojhnWHM4T4fzqqUvT2RvGfDHee+tGh6dy1ljazdshDcS8Qf6/vCB03r2mvgWnZL6oA==",
+  "dgSpecHash": "p2qXrOyU5weerTQ0JWX0pQd44Ds+La6gMlfe0vovgR2jPG9uMzRwmRR6l2nS9KIY+qRAeOVE2MnC1RIfytqmyw==",
   "success": true,
-  "projectFilePath": "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\ConsultaDados\\Barrometro.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\api_\\Barômetro\\Barometro\\ConsultaDados\\Barrometro.Persistencia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

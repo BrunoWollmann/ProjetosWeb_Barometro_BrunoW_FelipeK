@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Barometro.Web.Internacionalizacao
+@model List<BarometroModel>
+
+<h1>@Resource.Barometro</h1>
+
+@Html.Raw(@ViewBag.ConteudoAd)
+
+<p><a href="\Barometro\inserir">Novo Barometro</a></p>
+
+<table>
+    <tr>
+        <th>Pressão</th>
+        <th>Altitude</th>
+        <th>Humidade</th>
+        <th>Data</th>
+        <th>Ações</th>
+        <th>Diminuir valores</th>
+    </tr>
+    @{
+        foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.PRESSURE</td>
+                <td id="qtd@(item.Id)">@item.ALTITUDE</td>
+                <td>@item.HUMIDITY</td>
+                <td>@item.DATE</td>
+                <td>@Html.ActionLink("Excluir","excluir",new {id=item.Id}) @Html.ActionLink("Editar","editar", new {id = @item.Id})</td>
+                <td><a href="#" onclick="AtualizarEstoque('@item.Id')">Diminuir valores</a></td>
+            </tr> 
+        }
+    }
+
+</table>
+
+@section Scripts{
+    <script>
+        function AtualizarEstoque(id){
+            var url = "Barometro/DiminuirValores";
+            var parametros = {id : id};
+            $.post(url, parametros, CallBackAtualizaEstoque);
+
+            Barometro/DiminuirValores/item.Id
+        }
+
+        function CallBackAtualizaEstoque(retorno){
+
+            var elemento = $("#qtd" + retorno.id);
+            elemento.html(retorno.ALTITUDE);
+        }
+    </script>
+}

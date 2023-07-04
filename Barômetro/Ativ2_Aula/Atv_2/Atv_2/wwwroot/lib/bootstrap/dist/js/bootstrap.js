@@ -360,11 +360,11 @@
   const eventRegistry = {}; // Events storage
 
   let uidEvent = 1;
-  const customEvents = {
+  const valormEvents = {
     mouseenter: 'mouseover',
     mouseleave: 'mouseout'
   };
-  const customEventsRegex = /^(mouseenter|mouseleave)/i;
+  const valormEventsRegex = /^(mouseenter|mouseleave)/i;
   const nativeEvents = new Set(['click', 'dblclick', 'mouseup', 'mousedown', 'contextmenu', 'mousewheel', 'DOMMouseScroll', 'mouseover', 'mouseout', 'mousemove', 'selectstart', 'selectend', 'keydown', 'keypress', 'keyup', 'orientationchange', 'touchstart', 'touchmove', 'touchend', 'touchcancel', 'pointerdown', 'pointermove', 'pointerup', 'pointerleave', 'pointercancel', 'gesturestart', 'gesturechange', 'gestureend', 'focus', 'blur', 'change', 'reset', 'select', 'submit', 'focusin', 'focusout', 'load', 'unload', 'beforeunload', 'resize', 'move', 'DOMContentLoaded', 'readystatechange', 'error', 'abort', 'scroll']);
   /**
    * ------------------------------------------------------------------------
@@ -460,7 +460,7 @@
     // this prevents the handler from being dispatched the same way as mouseover or mouseout does
 
 
-    if (customEventsRegex.test(originalTypeEvent)) {
+    if (valormEventsRegex.test(originalTypeEvent)) {
       const wrapFn = fn => {
         return function (event) {
           if (!event.relatedTarget || event.relatedTarget !== event.delegateTarget && !event.delegateTarget.contains(event.relatedTarget)) {
@@ -520,7 +520,7 @@
   function getTypeEvent(event) {
     // allow to get the native events from namespaced events ('click.bs.button' --> 'click')
     event = event.replace(stripNameRegex, '');
-    return customEvents[event] || event;
+    return valormEvents[event] || event;
   }
 
   const EventHandler = {
@@ -596,11 +596,11 @@
         evt = document.createEvent('HTMLEvents');
         evt.initEvent(typeEvent, bubbles, true);
       } else {
-        evt = new CustomEvent(event, {
+        evt = new valormEvent(event, {
           bubbles,
           cancelable: true
         });
-      } // merge custom information in our event
+      } // merge valorm information in our event
 
 
       if (typeof args !== 'undefined') {
@@ -2193,7 +2193,7 @@
 
       if (parentDropdown.classList.contains(CLASS_NAME_DROPSTART)) {
         return PLACEMENT_LEFT;
-      } // We need to trim the value because custom properties can also include spaces
+      } // We need to trim the value because valorm properties can also include spaces
 
 
       const isEnd = getComputedStyle(this._menu).getPropertyValue('--bs-position').trim() === 'end';
@@ -3557,7 +3557,7 @@
     container: '(string|element|boolean)',
     fallbackPlacements: 'array',
     boundary: '(string|element)',
-    customClass: '(string|function)',
+    valormClass: '(string|function)',
     sanitize: 'boolean',
     sanitizeFn: '(null|function)',
     allowList: 'object',
@@ -3583,7 +3583,7 @@
     container: false,
     fallbackPlacements: ['top', 'right', 'bottom', 'left'],
     boundary: 'clippingParents',
-    customClass: '',
+    valormClass: '',
     sanitize: true,
     sanitizeFn: null,
     allowList: DefaultAllowlist,
@@ -3761,10 +3761,10 @@
 
       tip.classList.add(CLASS_NAME_SHOW$2);
 
-      const customClass = this._resolvePossibleFunction(this._config.customClass);
+      const valormClass = this._resolvePossibleFunction(this._config.valormClass);
 
-      if (customClass) {
-        tip.classList.add(...customClass.split(' '));
+      if (valormClass) {
+        tip.classList.add(...valormClass.split(' '));
       } // If this is a touch-enabled device we add extra
       // empty mouseover listeners to the body's immediate children;
       // only needed because of broken event delegation on iOS

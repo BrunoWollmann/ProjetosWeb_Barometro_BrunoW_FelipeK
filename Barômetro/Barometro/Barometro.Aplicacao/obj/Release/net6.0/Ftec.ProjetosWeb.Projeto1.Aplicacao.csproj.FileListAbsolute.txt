@@ -1,0 +1,17 @@
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.deps.json
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.dll
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.pdb
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Dominio.dll
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Persistencia.dll
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Dominio.pdb
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\bin\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Persistencia.pdb
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.AssemblyInfo.cs
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.csproj.CopyComplete
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.dll
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\refint\Ftec.ProjetosWeb.Projeto1.Aplicacao.dll
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\Ftec.ProjetosWeb.Projeto1.Aplicacao.pdb
+D:\OneDrive\Documents\Ftec\Projetos de Sistema para Web 2023-1 - Terça Noite\Fontes\A11\A08\Ftec.ProjetosWeb.Projeto1.Aplicacao\obj\Release\net6.0\ref\Ftec.ProjetosWeb.Projeto1.Aplicacao.dll

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "77tPJqSBJnFRZ1+TItas70Gjk0cyvktaAT4+3II4ZGLKy4wi7h8MjnTrpCmwvyunng/nT3GnZ1Vfnnbp+NP1pA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Aplicacao\\Barometro.Aplicacao.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Npgsql. No packages exist with this id in source(s): Connect, Microsoft Visual Studio Offline Packages, Official",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

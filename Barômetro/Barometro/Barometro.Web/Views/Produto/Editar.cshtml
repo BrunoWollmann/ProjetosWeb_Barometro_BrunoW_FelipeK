@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Microsoft.AspNetCore.Http;
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor httpContextAccessor;
+
+<h1>Alteração de Barometro</h1>
+<h1>Conteudo da Sessao:@httpContextAccessor.HttpContext.Session.GetString("usuario")</h1>
+<form method="post" action="\Barometro\alterar">
+    <input type="hidden" name="Barometro.Id" value="@ViewBag.Barometro.Id" />
+    <label for="PRESSURE">Pressão</label>
+    <input type="text" name="Barometro.PRESSURE" id="PRESSURE" value="@ViewBag.Barometro.PRESSURE" />
+    <br />
+    <label for="ALTITUDE">Altitude</label>
+    <input type="text" name="Barometro.ALTITUDE" id="ALTITUDE" value="@ViewBag.Barometro.ALTITUDE" />
+     <br />
+    <label for="HUMIDITY">Humidade</label>
+    <input type="text" name="Barometro.HUMIDITY" id="HUMIDITY" value="@ViewBag.Barometro.HUMIDITY" />
+     <br />
+    <label for="DATE">Data</label>
+    <input type="text" name="Barometro.DATE" id="DATE" value="@ViewBag.Barometro.DATE" />
+     <br />
+    <label for="TEMPid">TEMP</label>
+    <select id="TEMPid" name="Barometro.TEMPId">
+        @{
+            foreach (var TEMP in ViewBag.TEMPs)
+            {
+                        <option  value="@TEMP.Id">@TEMP.PRESSURE</option>
+            }
+        }
+    </select>
+    <br />
+    <input type="submit" value="Alterar Barometro" />
+</form>

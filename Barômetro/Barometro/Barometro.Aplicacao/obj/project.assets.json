@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Barometro.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj": "1.0.0",
+          "Npgsql": "7.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Barometro.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Barometro.Persistencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Barometro.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../Barometro.Persistencia/Barometro.Persistencia.csproj",
+      "msbuildProject": "../Barometro.Persistencia/Barometro.Persistencia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Barometro.Persistencia >= 1.0.0",
+      "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bruno.camargo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Aplicacao\\Barometro.Aplicacao.csproj",
+      "projectName": "Barometro.Aplicacao",
+      "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Aplicacao\\Barometro.Aplicacao.csproj",
+      "packagesPath": "C:\\Users\\bruno.camargo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Aplicacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bruno.camargo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://gallery.uipath.com/api/v3/index.json": {},
+        "https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj": {
+              "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj"
+            },
+            "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Persistencia\\Barometro.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Persistencia\\Barometro.Persistencia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barometro.Dominio\\Barometro.Dominio.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Npgsql. No packages exist with this id in source(s): Connect, Microsoft Visual Studio Offline Packages, Official",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

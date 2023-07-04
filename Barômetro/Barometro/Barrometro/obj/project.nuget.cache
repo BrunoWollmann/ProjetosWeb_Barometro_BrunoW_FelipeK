@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rfJBiH8B9uZCMTsQqrKiErRUp2Yd+7ivl7gG5JfVVYP0tGlImXD6nSi/RRDAG8nKKPxwM693sJMieQm2/jXsnA==",
+  "dgSpecHash": "lmje8l27tAXuIeltHSjrNOALsppYu+wP9E04NhPGjJun+wb8f6hnAPo0cUR3bk1ttdee08pji5Krqgge4JebFA==",
   "success": false,
-  "projectFilePath": "C:\\Pessoal_BrunoW\\Projeto_BrunoW_FelipeW\\Barometro\\Barrometro\\Barrometro.Web.csproj",
+  "projectFilePath": "C:\\Users\\bruno.camargo\\OneDrive - Processor\\Documentos\\Api\\Barômetro\\Barometro\\Barrometro\\Barrometro.Web.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
